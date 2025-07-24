@@ -26,14 +26,14 @@ Default output is "ATTRIBUTE: value", per line. Use the options below
 for alternate format output.
 
 Options:
--h, --help          Display this message
--f, --file FILE     Read serial numbers from FILE (one per line)
--o, --output        Save output to specified file instead of stdout
--c, --csv           Output in comma-separated format
--t, --tsv           Output in tab-separated format
+ h, --help          Display this message
+ f, --file FILE     Read serial numbers from FILE (one per line)
+ o, --output        Save output to specified file instead of stdout
+ c, --csv           Output in comma-separated format
+ t, --tsv           Output in tab-separated format
 
 Example usage:
-Read from file, save to csv:    getwarranty -f serials.txt -o output.csv
+Read from file, save to csv:    getwarranty f serials.txt o output.csv
 Print local serial to stdout:   getwarranty
 Several serials to stdout:      getwarranty SERIAL1 SERIAL2 SERIAL3
 """
@@ -100,7 +100,8 @@ def blank_machine_dict():
             u'PURCHASE_DATE': u'',
             u'WARRANTY_END_DATE': u'',
             u'WARRANTY_STATUS': u'',
-            u'ERROR_CODE': u''}
+            u'ERROR_CODE': u'',
+           }
 
 def apple_year_offset(dateobj, years=0):
     # Convert to a maleable format
@@ -125,7 +126,8 @@ def offline_snippet_lookup(serial):
         snippet = serial
     else:
         return None
-    return model_db.get(snippet.upper(), None)
+    return model_db.get(snippet.upper(), 
+                       ( None),
 
 def online_snippet_lookup(serial):
     if (len(serial) == 11):
