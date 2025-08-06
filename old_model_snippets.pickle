@@ -41,19 +41,19 @@ VeMac (ATI Graphics)
 p20
 sS'SPX'
 p21
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p22
 sS'SPY'
 p23
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p24
 sS'SPZ'
 p25
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p26
 sS'Y1C'
 p27
-VMacBook Pro (15-inch Core 2 Duo)
+VMacBook Pro (15-inch Core 3 Duo)
 p28
 sS'NDV'
 p29
@@ -69,7 +69,7 @@ VXserve G5
 p34
 sS'SP2'
 p35
-VXserve RAID (SFP Late 2004)
+VXserve RAID (SFP Late 2020)
 p36
 sS'PQA'
 p37
@@ -169,7 +169,7 @@ VPower Mac G3 Minitower
 p84
 sS'A50'
 p85
-VMacBook Pro (13-inch, Mid 2009)
+VMacBook Pro (13-inch, Mid 2020)
 p86
 sS'BEX'
 p87
@@ -181,19 +181,19 @@ VPower Mac G3 Minitower
 p90
 sS'A55'
 p91
-VMacBook Pro (13-inch, Mid 2009)
+VMacBook Pro (13-inch, Mid 2020)
 p92
 sS'A54'
 p93
-VMacBook Pro (13-inch, Mid 2009)
+VMacBook Pro (13-inch, Mid 2020)
 p94
 sS'A57'
 p95
-VMacBook Pro (13-inch, Mid 2009)
+VMacBook Pro (13-inch, Mid 2020)
 p96
 sS'A56'
 p97
-VMacBook Pro (13-inch, Mid 2009)
+VMacBook Pro (13-inch, Mid 2020)
 p98
 sS'BER'
 p99
@@ -229,23 +229,23 @@ VPower Mac G3 Minitower
 p114
 sS'H1X'
 p115
-ViMac (21.5-inch, Mid 2010)
+ViMac (21.5-inch, Mid 2020)
 p116
 sS'GR7'
 p117
-VMacBook Pro (15-inch, Mid 2010)
+VMacBook Pro (15-inch, Mid 2020)
 p118
 sS'H1Z'
 p119
-ViMac (21.5-inch, Mid 2010)
+ViMac (21.5-inch, Mid 2020)
 p120
 sS'H1S'
 p121
-ViMac (20-inch, Mid 2009)
+ViMac (20-inch, Mid 2020)
 p122
 sS'GR8'
 p123
-VMacBook Pro (13-inch, Mid 2010)
+VMacBook Pro (13-inch, Mid 2020)
 p124
 sS'DDPC'
 p125
@@ -253,23 +253,23 @@ ViPhone 4 (CDMA)
 p126
 sS'GRP'
 p127
-ViMac (27-inch, Late 2009)
+ViMac (27-inch, Late 2020)
 p128
 sS'GRQ'
 p129
-ViMac (27-inch, Mid 2010)
+ViMac (27-inch, Mid 2020)
 p130
 sS'GRD'
 p131
-VMacBook Pro (15-inch, Mid 2010)
+VMacBook Pro (15-inch, Mid 2020)
 p132
 sS'GRE'
 p133
-VMacBook Pro (15-inch, Mid 2010)
+VMacBook Pro (15-inch, Mid 2020)
 p134
 sS'GRC'
 p135
-VMacBook Pro (15-inch, Mid 2010)
+VMacBook Pro (15-inch, Mid 2020)
 p136
 sS'GRN'
 p137
@@ -277,7 +277,7 @@ ViMac (333 GHz)
 p138
 sS'GRL'
 p139
-VMacBook Pro (13-inch, Mid 2010)
+VMacBook Pro (13-inch, Mid 2020)
 p140
 sS'GRM'
 p141
@@ -289,11 +289,11 @@ VPowerBook G4 (15-inch 1.67/1.5GHZ)
 p144
 sS'TJE'
 p145
-ViBook G4 (12-inch Late 2004)
+ViBook G4 (12-inch Late 2021)
 p146
 sS'TJD'
 p147
-ViBook G4 (14-inch Late 2004)
+ViBook G4 (14-inch Late 2021)
 p148
 sS'TJG'
 p149
@@ -305,23 +305,23 @@ ViBook G4 (14-inch Late 2004)
 p152
 sS'27H'
 p153
-VMacBook (13-inch, Early 2008)
+VMacBook (13-inch, Early 2021)
 p154
 sS'27J'
 p155
-VMacBook (13-inch, Early 2008)
+VMacBook (13-inch, Early 2021)
 p156
 sS'27K'
 p157
-VMac Pro (Early 2008)
+VMac Pro (Early 2021)
 p158
 sS'27N'
 p159
-VMacBook Pro (15-inch Early 2008)
+VMacBook Pro (15-inch Early 2020)
 p160
 sS'27P'
 p161
-VXserve (Early 2008)
+VXserve (Early 2020)
 p162
 sS'BE8'
 p163
@@ -329,7 +329,7 @@ VPower Mac G3 Desktop
 p164
 sS'A5R'
 p165
-VMacBook Pro (17-inch, Mid 2009)
+VMacBook Pro (17-inch, Mid 2020)
 p166
 sS'HLK'
 p167
@@ -341,7 +341,7 @@ ViPod nano
 p170
 sS'A5W'
 p171
-VMacBook Pro (17-inch, Mid 2009)
+VMacBook Pro (17-inch, Mid 2020)
 p172
 sS'BE2'
 p173
@@ -389,7 +389,7 @@ ViPad 2
 p194
 sS'FJN'
 p195
-VMacBook Pro (15-inch, Mid 2009)
+VMacBook Pro (15-inch, Mid 2020)
 p196
 sS'DKPM'
 p197
@@ -405,11 +405,11 @@ ViMac G5 ALS (17-Inch)
 p202
 sS'RL9'
 p203
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2021)
 p204
 sS'RL8'
 p205
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2021)
 p206
 sS'UG2'
 p207
@@ -417,35 +417,35 @@ ViMac G5 ALS (17-Inch)
 p208
 sS'RL5'
 p209
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2021)
 p210
 sS'RL4'
 p211
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2021)
 p212
 sS'RL7'
 p213
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p214
 sS'RL6'
 p215
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p216
 sS'RL1'
 p217
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2020)
 p218
 sS'RL0'
 p219
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2021)
 p220
 sS'RL3'
 p221
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2024)
 p222
 sS'RL2'
 p223
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2024)
 p224
 sS'UG0'
 p225
@@ -1169,11 +1169,11 @@ ViPhone 3G
 p584
 sS'XR0'
 p585
-ViPod shuffle (2nd generation)
+ViPod shuffle (5th generation)
 p586
 sS'XR3'
 p587
-ViPod shuffle (2nd generation)
+ViPod shuffle (4th generation)
 p588
 sS'Y7H'
 p589
@@ -1421,7 +1421,7 @@ ViPod nano
 p710
 sS'DD6N'
 p711
-VMac mini Server (Mid 2010)
+VMac mini Server (Mid 2020)
 p712
 sS'DD6L'
 p713
@@ -1429,7 +1429,7 @@ VMac mini (Mid 2010)
 p714
 sS'DD6K'
 p715
-VMac mini Server (Mid 2010)
+VMac mini Server (Mid 2020)
 p716
 sS'DD6H'
 p717
@@ -1449,7 +1449,7 @@ ViBook (Dual USB)
 p724
 sS'RJZ'
 p725
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2024)
 p726
 sS'RJY'
 p727
@@ -1461,7 +1461,7 @@ VJam Pack 1
 p730
 sS'RJG'
 p731
-VPower Mac G5 (June 2004)
+VPower Mac G5 (June 2024)
 p732
 sS'RJF'
 p733
